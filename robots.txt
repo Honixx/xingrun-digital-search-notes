@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://honixx.github.io/xingrun-digital-search-notes/sitemap.xml
